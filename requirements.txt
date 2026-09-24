@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+transformers
+googletrans==4.0.0-rc1
